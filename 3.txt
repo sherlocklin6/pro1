@@ -1,2 +1,2 @@
 conflict
-master add
+conflict fixed
